@@ -70,8 +70,8 @@ function  create() {
         alert("ID或跳转地址不能为空！");
         return false;
     }
-    kd.href = 'https://342u4133v7.goho.co/?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书    kd.style = ''; 
-    kd.innerText = 'https://342u4133v7.goho.co/?id='+myid.value+'&url='+url.value; //CY云官网www.cygzs686.top
+    kd.href = 'www.kukuxin.top?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书    kd.style = ''; 
+    kd.innerText = 'www.kukuxin.top?id='+myid.value+'&url='+url.value; //CY云官网www.cygzs686.top
 }
 </script>
 <div id="bob">
